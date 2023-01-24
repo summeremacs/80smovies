@@ -1,0 +1,78 @@
+#+title:      80s movies
+#+date:       [2022-08-20 Sat 23:58]
+#+filetags:   :list:movie:
+#+identifier: 20220820T235830
+
+- [ ] A Land Before Time
+- [ ] Baby's Day Out.
+- [ ] Beethoven
+- [ ] Beverly Hills Cop 1 & 2
+- [ ] Blazing Saddles (1974)
+- [ ] Conan the Barbarian
+- [ ] Dark Crystal
+- [ ] Dead Poets Society
+- [ ] Dennis the Menace
+- [ ] Dune
+- [ ] Dutch
+- [ ] Ferris Bueller's Day Off
+- [ ] Flashdance
+- [ ] Footloose
+- [ ] High Anxiety (1977)
+- [ ] Highlander
+- [ ] History of the World, Part I (1981)
+- [ ] Home Alone
+- [ ] Killer Klowns from Outer Space
+- [ ] Legend
+- [ ] Mannequin
+- [ ] Mr. Mom
+- [ ] Mrs. Doubtfire
+- [ ] National Lampoon's Vacation
+- [ ] Neverending Story
+- [ ] Planes, Trains and Automobiles
+- [ ] Poltergeist
+- [ ] Pretty in Pink
+- [ ] Robin Hood: Men in Tights (1993)
+- [ ] Robocop
+- [ ] Saint Elmo's Fire
+- [ ] She's Having a Baby
+- [ ] Short Circuit
+- [ ] Silent Movie (1976)
+- [ ] Sixteen Candles
+- [ ] Some Kind of Wonderful
+- [ ] Spaceballs (1987)
+- [ ] The Breakfast Club
+- [ ] The Great Outdoors
+- [ ] The Last Starfighter
+- [ ] The Last Unicorn
+- [ ] The Producers (1967)
+- [ ] The Twelve Chairs (1970)
+- [ ] Top Gun
+- [ ] Total Recall
+- [ ] Tron
+- [ ] Uncle Buck
+- [X] A Fish Called Wanda
+- [X] Better Off Dead
+- [X] Blade Runner
+- [X] Clue
+- [X] Ferris Bueller's Day Off
+- [X] Heathers
+- [X] Little Shop of Horrors
+- [X] Risky Business
+- [X] Spaceballs
+- [X] War Games
+- [X] Weird Science
+- [X] Willow
+- [X] Young Frankenstein (1974)
+
+
+* Shows
+
+- [ ] Beauty & The Beast
+- [ ] Greatest American Hero
+- [ ] Knight Rider
+
+
+* 80s Broadway Shows
+
+- [ ] Cats
+- [ ] Phantom of the Opera
